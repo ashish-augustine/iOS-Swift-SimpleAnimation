@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  JPAntMarchAnimation
 //
-//  Created by Jay Patel on 01/04/21.
-//  Copyright © 2021 Jay Patel. All rights reserved.
+//  Created by Ashish Augustine on 01/04/21.
+//  Copyright © 2021 Ashish Augustine. All rights reserved.
 //
 
 import UIKit
